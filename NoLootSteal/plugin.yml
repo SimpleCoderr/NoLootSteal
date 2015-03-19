@@ -1,0 +1,7 @@
+name: NoLootSteal
+authors: [SimpleCoder]
+version: 1.0.0
+main: me.simplecoder.nolootsteal.NoLootSteal
+commands:
+  lootsteal:
+    description: Main plugin command.

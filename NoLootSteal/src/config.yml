@@ -1,0 +1,7 @@
+
+prefix: '&f[&4Lootsteal&f]'
+
+timeinseconds: 60
+message: '&cOnly &eKILLER &ccan pick that up for 1 minute.'
+messagefree: '&bAnyone can now pickup the loot from &6PLAYER'
+timeantispam: 5
